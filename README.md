@@ -34,9 +34,11 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-
+### Game Start
 ![alt text](https://github.com/TayyibYasar/2D-ParkourGame/blob/main/Game%20start.png)
 
+### Game Middle
 ![alt text](https://github.com/TayyibYasar/2D-ParkourGame/blob/main/Game-middle.png)
 
+### Game End
 ![alt text](https://github.com/TayyibYasar/2D-ParkourGame/blob/main/Game-end.png)
